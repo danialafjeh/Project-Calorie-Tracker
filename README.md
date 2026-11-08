@@ -4,7 +4,7 @@
 Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity throughout my learning journey.
 
 
-# Calorie Tracker
+# Calorie Tracker Website
 
 A full-stack calorie tracking web application built with **Django** using the **MVT architecture**, with a complete frontend and backend, PostgreSQL database, and Dockerized environment.
 
