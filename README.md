@@ -6,7 +6,7 @@
 
 Complexity : Intermediate
 
-A full-stack calorie tracking web application built with **Django** using the **MVT architecture**, with a complete frontend and backend, PostgreSQL database, and Dockerized environment.
+A calorie tracking web application with frontend and backend built with **Django** using the **MVT architecture**, with a complete frontend and backend, PostgreSQL database, and Dockerized environment.
 
 > **Important:** This project is intended for educational and demonstration purposes only. It is **not a medical or clinical tool** and must not be used for real medical, nutritional, or health-related decisions.
 
